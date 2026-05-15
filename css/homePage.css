@@ -1,5 +1,5 @@
 body {
-    background-color: #e28cde;
+    background: #e28cde;
     max-width: 650px;
     margin: auto;
     padding: 25px 25px;
@@ -40,14 +40,16 @@ p {
 
 .navbar {
     padding: 15px;
-    background-color: #ffdafda1;
+    background: #ffdafda1;
+    background: linear-gradient(180deg,rgba(255, 218, 253, 0.67) 0%, rgba(212, 190, 200, 0.67) 100%);
     border: 1px solid #70416d62;
 }
 
 .container {
     padding: 10px 15px;
     margin-top: 15px;
-    background-color: #ffdafda1;
+    background: #ffdafda1;
+    background: linear-gradient(180deg,rgba(255, 218, 253, 0.67) 0%, rgba(212, 190, 200, 0.67) 100%);
     border: 1px solid #70416d62;
 }
 
@@ -65,7 +67,7 @@ p {
     grid-row: 1;
     width: 7rem;
     border: 1px solid #70416d62;
-    background-color: #e28cde;
+    background-color: #e28cde6c;
 }
 h3 {
     font-size: 1.1rem;
